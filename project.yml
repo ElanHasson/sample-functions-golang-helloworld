@@ -3,3 +3,8 @@ packages:
     actions:
       - name: hello
         runtime: 'go:default'
+      - name: panic
+        runtime: 'go:default'
+      - name: slow
+        runtime: 'go:default'
+
