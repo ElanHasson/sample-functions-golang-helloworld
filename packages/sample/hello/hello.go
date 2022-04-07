@@ -1,4 +1,4 @@
-package hello
+package main
 
 func Main(args map[string]interface{}) map[string]interface{} {
 	name, ok := args["name"].(string)

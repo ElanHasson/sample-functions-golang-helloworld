@@ -1,4 +1,4 @@
-package slow
+package main
 
 import "time"
 
